@@ -93,7 +93,7 @@ namespace TestTask
             public Player(int attack, int defense, int health, int minDamage, int maxDamage, int maxHealth)
             : base(attack, defense, health, minDamage, maxDamage, maxHealth)
             {
-                //Дополнительные характеристики 
+                //Дополнительные характеристики  
             }
         }
 
